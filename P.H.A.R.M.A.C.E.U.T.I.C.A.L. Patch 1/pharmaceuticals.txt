@@ -1,0 +1,164 @@
+---
+Acetaminophen
+Used to relieve mild to moderate pain and reduce fever.
+###
+---
+Amlodipine
+A calcium channel blocker used to treat high blood pressure and chest pain.
+###
+---
+Amoxicillin
+An antibiotic used to treat bacterial infections such as ear infections, pneumonia, and urinary tract infections.
+###
+---
+Atorvastatin
+Used to lower cholesterol and reduce the risk of heart disease.
+###
+---
+Azithromycin
+An antibiotic used to treat various bacterial infections such as respiratory infections and skin infections.
+###
+---
+Cetirizine
+An antihistamine used to relieve allergy symptoms such as sneezing and runny nose.
+###
+---
+Clopidogrel
+Used to prevent strokes and heart attacks in people at risk for blood clots.
+###
+---
+Doxycycline
+An antibiotic used to treat infections including acne, respiratory tract infections, and STDs.
+###
+---
+Escitalopram
+Used to treat depression and generalized anxiety disorder.
+###
+---
+Fluticasone Nasal Spray
+Used to treat nasal symptoms of allergies including congestion, sneezing, and runny nose.
+###
+---
+Furosemide
+A diuretic used to treat fluid retention and swelling caused by heart failure, liver disease, or kidney disease.
+###
+---
+Gabapentin
+Used to treat nerve pain and seizures.
+###
+---
+Guaifenesin
+An expectorant used to relieve chest congestion and loosen mucus.
+###
+---
+Hydrochlortiazide
+A diuretic used to treat high blood pressure and fluid retention.
+###
+---
+Hydrocodone/Acetaminophen
+A combination pain reliever used to treat moderate to severe pain.
+###
+---
+Icosapent
+Used to reduce triglyceride levels in the blood and help prevent heart disease.
+###
+---
+Kerendia
+Used to reduce the risk of kidney and heart complications in patients with chronic kidney disease and type 2 diabetes.
+###
+---
+Lisinopril
+An ACE inhibitor used to treat high blood pressure and heart failure.
+###
+---
+Lorazepam
+Used to treat anxiety disorders and for sedation before medical procedures.
+###
+---
+Losartan
+An angiotensin receptor blocker used to treat high blood pressure.
+###
+---
+Meloxicam
+A nonsteroidal anti-inflammatory drug (NSAID) used to treat arthritis.
+###
+---
+Metoprolol
+A beta-blocker used to treat high blood pressure, chest pain, and heart failure.
+###
+---
+Montelukast
+Used to prevent asthma attacks and allergic rhinitis.
+###
+---
+Nifedipine ER
+A calcium channel blocker used to treat high blood pressure and angina.
+###
+---
+Omeprazole DR
+A proton pump inhibitor used to treat acid reflux and stomach ulcers.
+###
+---
+Prednisone
+A corticosteroid used to reduce inflammation and treat conditions such as asthma and arthritis.
+###
+---
+Quetiapine
+An antipsychotic used to treat schizophrenia, bipolar disorder, and depression.
+###
+---
+Risperidone
+Used to treat schizophrenia, bipolar disorder, and irritability associated with autism.
+###
+---
+Sertraline
+An antidepressant used to treat depression, panic disorder, OCD, and PTSD.
+###
+---
+Simvastatin
+Used to lower cholesterol and reduce the risk of heart disease.
+###
+---
+Tamsulosin
+Used to treat enlarged prostate symptoms in men.
+###
+---
+Tramadol
+A pain reliever used to treat moderate to moderately severe pain.
+###
+---
+Trazodone
+Used to treat depression and insomnia.
+###
+---
+Ubrevly
+Used for the acute treatment of migraine headaches.
+###
+---
+Venlafaxine
+An antidepressant used to treat depression, anxiety, and panic disorder.
+###
+---
+Vilazodone
+An antidepressant used to treat major depressive disorder.
+###
+---
+Warfarin
+A blood thinner used to prevent blood clots.
+###
+---
+Wegovy
+Used for chronic weight management in adults with obesity or overweight conditions.
+###
+---
+Xigduo
+Used to improve blood sugar control in adults with type 2 diabetes.
+###
+---
+Yasmin
+A birth control pill used to prevent pregnancy.
+###
+---
+Zolpidem
+A sedative used for the short-term treatment of insomnia.
+###

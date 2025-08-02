@@ -1,0 +1,79 @@
+---
+Bryan
+Role: Pharmacist
+Login Times
+Login: July 31, 2025 01:02 PM
+Logout: July 31, 2025 01:03 PM
+Login: July 31, 2025 06:53 PM
+Logout: July 31, 2025 06:53 PM
+Login: July 31, 2025 07:29 PM
+Logout: July 31, 2025 07:42 PM
+Login: August 01, 2025 03:52 AM
+Logout: August 01, 2025 03:52 AM
+Login: August 01, 2025 03:54 AM
+Logout: August 01, 2025 03:54 AM
+Login: August 01, 2025 03:55 AM
+Logout: August 01, 2025 03:56 AM
+Login: August 01, 2025 04:19 AM
+Logout: August 01, 2025 04:19 AM
+Login: August 01, 2025 04:20 AM
+Logout: August 01, 2025 04:20 AM
+Login: August 01, 2025 04:22 AM
+Logout: August 01, 2025 04:22 AM
+###
+---
+Josh
+Role: Technician
+Login Times
+Login: July 31, 2025 01:56 AM
+Logout: July 31, 2025 01:56 AM
+Login: July 31, 2025 01:57 AM
+Logout: July 31, 2025 01:57 AM
+Login: July 31, 2025 02:00 AM
+Logout: July 31, 2025 02:00 AM
+Login: July 31, 2025 02:03 AM
+Logout: July 31, 2025 02:05 AM
+Login: July 31, 2025 02:27 AM
+Logout: July 31, 2025 02:27 AM
+Login: August 01, 2025 02:41 AM
+Logout: August 01, 2025 02:41 AM
+Login: August 01, 2025 03:31 AM
+Logout: August 01, 2025 03:32 AM
+Login: August 01, 2025 03:40 AM
+Logout: August 01, 2025 03:41 AM
+Login: August 01, 2025 03:47 AM
+Logout: August 01, 2025 03:51 AM
+Login: August 01, 2025 04:18 AM
+Logout: August 01, 2025 04:18 AM
+Login: August 01, 2025 04:20 AM
+Logout: August 01, 2025 04:21 AM
+###
+---
+Sandy
+Role: Technician
+Login Times
+Login: July 31, 2025 01:56 AM
+Logout: July 31, 2025 01:57 AM
+Login: July 31, 2025 02:09 AM
+Logout: July 31, 2025 02:10 AM
+Login: July 31, 2025 02:12 AM
+Logout: July 31, 2025 02:12 AM
+###
+---
+Katherine
+Role: Technician
+Login Times
+Login: July 31, 2025 02:01 AM
+Logout: July 31, 2025 02:01 AM
+Login: July 31, 2025 02:01 AM
+Logout: July 31, 2025 02:02 AM
+Login: August 01, 2025 04:21 AM
+Logout: August 01, 2025 04:21 AM
+###
+---
+Daniel
+Role: Technician
+Login Times
+Login: August 01, 2025 03:55 AM
+Logout: August 01, 2025 03:55 AM
+###

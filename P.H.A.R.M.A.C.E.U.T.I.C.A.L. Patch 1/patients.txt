@@ -1,0 +1,493 @@
+---
+Morgan Moore Gonzalez
+07-13-1935
+!!!
+Metformin 500 MG - TK 1 T PO BID WF
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+!!!
+8673 Vazquez Oval Apt. 961
+Allergy: None
+###
+---
+Casey Wilson Martin
+10-25-2005
+!!!
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+Adderall 20 MG - TK 1 T PO QAM
+!!!
+22977 Anderson Rapids
+Allergy: Lisinopril
+###
+---
+Emerson Garcia Brown
+01-27-1991
+!!!
+Metformin 500 MG - TK 1 T PO BID WF
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+!!!
+27284 Danielle Valley
+Allergy: None
+###
+---
+Jamie Martin Lopez
+02-23-2004
+!!!
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+!!!
+64286 Flores Skyway Apt. 773
+Allergy: None
+###
+---
+Jamie Thomas Martinez
+05-30-1954
+!!!
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+!!!
+855 Gomez Grove Suite 914
+Allergy: None
+###
+---
+Drew Wilson Garcia
+04-18-1991
+!!!
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+!!!
+8746 Cisneros Street Suite 419
+Allergy: None
+###
+---
+Casey Williams Williams
+04-16-1959
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+!!!
+220 Douglas Point
+Allergy: None
+###
+---
+Jamie Garcia Taylor
+10-11-2004
+!!!
+Metformin 500 MG - TK 1 T PO BID WF
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+!!!
+034 Lori Bridge
+Allergy: None
+###
+---
+Taylor Garcia Miller
+01-22-1991
+!!!
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+Atorvastatin 40 MG - TK 1 T PO QHS
+!!!
+Unit 8253 Box 4307
+Allergy: None
+###
+---
+Avery Taylor Taylor
+09-04-1940
+!!!
+Adderall 20 MG - TK 1 T PO QAM
+!!!
+61156 Meyers Freeway Suite 416
+Allergy: None
+###
+---
+Quinn Anderson Moore
+07-10-1941
+!!!
+Adderall 20 MG - TK 1 T PO QAM
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+52833 Manning Corners Suite 273
+Allergy: None
+###
+---
+Casey Davis Lopez
+06-25-1980
+!!!
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+!!!
+952 White Manor
+Allergy: None
+###
+---
+Kendall Miller Jones
+07-07-1952
+!!!
+Adderall 20 MG - TK 1 T PO QAM
+!!!
+494 Lisa Drives
+Allergy: None
+###
+---
+Avery Jackson Martin
+09-17-1988
+!!!
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+Atorvastatin 40 MG - TK 1 T PO QHS
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+7230 Arthur Creek Apt. 794
+Allergy: None
+###
+---
+Skyler Anderson Lee
+06-05-1982
+!!!
+Metformin 500 MG - TK 1 T PO BID WF
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+!!!
+0303 Karla Knoll
+Allergy: None
+###
+---
+Emerson Moore Davis
+11-08-1958
+!!!
+Sertraline 50 MG - TK 1 T PO QAM
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+!!!
+251 Carlson Center Suite 382
+Allergy: None
+###
+---
+Morgan Brown Davis
+07-14-1959
+!!!
+Adderall 20 MG - TK 1 T PO QAM
+!!!
+2869 Nicholas Springs
+Allergy: None
+###
+---
+Logan Williams Thomas
+09-27-1960
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+!!!
+8724 Mark Extensions Suite 933
+Allergy: None
+###
+---
+Riley Hernandez Hernandez
+03-24-1969
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+!!!
+PSC 7194, Box 0248
+Allergy: None
+###
+---
+Jamie Garcia Johnson
+09-25-2002
+!!!
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+!!!
+01760 Lisa Walk
+Allergy: None
+###
+---
+Quinn Taylor Martinez
+05-11-1981
+!!!
+Adderall 20 MG - TK 1 T PO QAM
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+10840 Mark Freeway
+Allergy: None
+###
+---
+Taylor Miller Jones
+03-13-1994
+!!!
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+Metformin 500 MG - TK 1 T PO BID WF
+!!!
+08330 Austin Springs Apt. 050
+Allergy: None
+###
+---
+Casey Thomas Martinez
+02-22-1955
+!!!
+Metformin 500 MG - TK 1 T PO BID WF
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+Atorvastatin 40 MG - TK 1 T PO QHS
+!!!
+Unit 8974 Box 0410
+Allergy: None
+###
+---
+Rowan Davis Lee
+07-14-1954
+!!!
+Lisinopril 10 MG - TK 1 T PO QD
+!!!
+49978 Miller Court Apt. 089
+Allergy: None
+###
+---
+Quinn Jones Smith
+10-05-1991
+!!!
+Adderall 20 MG - TK 1 T PO QAM
+!!!
+97306 Lee Route
+Allergy: None
+###
+---
+Skyler Lee Martinez
+11-05-1962
+!!!
+Metformin 500 MG - TK 1 T PO BID WF
+Sertraline 50 MG - TK 1 T PO QAM
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+!!!
+633 Yolanda Views Apt. 966
+Allergy: None
+###
+---
+Skyler Taylor Taylor
+02-22-1957
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+Sertraline 50 MG - TK 1 T PO QAM
+!!!
+614 Wendy Mountain
+Allergy: None
+###
+---
+Rowan Lee Miller
+01-12-1944
+!!!
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+Adderall 20 MG - TK 1 T PO QAM
+!!!
+520 Jason Tunnel
+Allergy: None
+###
+---
+Emerson Wilson Smith
+09-10-1983
+!!!
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+!!!
+75717 Baker Pass Apt. 339
+Allergy: None
+###
+---
+Rowan Miller Wilson
+06-10-1945
+!!!
+Metformin 500 MG - TK 1 T PO BID WF
+Adderall 20 MG - TK 1 T PO QAM
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+!!!
+2808 James Inlet Suite 156
+Allergy: None
+###
+---
+Morgan Jones Lee
+10-12-1941
+!!!
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+1657 Webster Village
+Allergy: None
+###
+---
+Logan Thomas Moore
+12-04-1967
+!!!
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+PSC 7745, Box 7700
+Allergy: None
+###
+---
+Logan Johnson Wilson
+05-02-1957
+!!!
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+Atorvastatin 40 MG - TK 1 T PO QHS
+!!!
+4427 Paul Branch
+Allergy: None
+###
+---
+Emerson Miller Williams
+11-29-1968
+!!!
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+!!!
+607 Maria Divide
+Allergy: None
+###
+---
+Riley Davis Brown
+01-07-1946
+!!!
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+!!!
+942 Hicks Tunnel
+Allergy: None
+###
+---
+Reese Johnson Wilson
+03-11-1965
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+8284 Kyle Harbor Apt. 686
+Allergy: None
+###
+---
+Avery Moore Wilson
+02-21-1960
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+Sertraline 50 MG - TK 1 T PO QAM
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+!!!
+41561 John Parkways Suite 698
+Allergy: None
+###
+---
+Cameron Jackson Garcia
+12-10-1941
+!!!
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+Metformin 500 MG - TK 1 T PO BID WF
+!!!
+8472 Edgar Shoals
+Allergy: None
+###
+---
+Avery Taylor Thomas
+02-08-1972
+!!!
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+!!!
+690 Ferrell Summit Apt. 639
+Allergy: None
+###
+---
+Skyler Jones Lopez
+12-12-1942
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+USNV Figueroa
+Allergy: None
+###
+---
+Taylor Brown Gonzalez
+02-07-1939
+!!!
+Adderall 20 MG - TK 1 T PO QAM
+!!!
+USCGC Blackwell
+Allergy: None
+###
+---
+Logan Thomas Johnson
+10-24-1941
+!!!
+Sertraline 50 MG - TK 1 T PO QAM
+!!!
+Unit 7519 Box 3811
+Allergy: None
+###
+---
+Alex Lopez Gonzalez
+12-24-1991
+!!!
+Sertraline 50 MG - TK 1 T PO QAM
+Adderall 20 MG - TK 1 T PO QAM
+Omeprazole 20 MG - TK 1 C PO 30MIN AC
+!!!
+8135 Ashley Passage Suite 381
+Allergy: None
+###
+---
+Quinn Gonzalez Martin
+01-13-1935
+!!!
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+Lisinopril 10 MG - TK 1 T PO QD
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+70042 Collins Fords
+Allergy: None
+###
+---
+Riley Thomas Davis
+12-12-1955
+!!!
+Metformin 500 MG - TK 1 T PO BID WF
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+!!!
+843 Sierra Glens
+Allergy: Amoxicillin
+###
+---
+Jordan Anderson Moore
+04-02-2001
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+Adderall 20 MG - TK 1 T PO QAM
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+!!!
+1721 David Ramp
+Allergy: None
+###
+---
+Rowan Brown Martin
+09-22-1993
+!!!
+Amoxicillin 500 MG - TK 1 C PO TID X7D
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+!!!
+8290 Garcia Wells
+Allergy: None
+###
+---
+Skyler Moore Lee
+03-19-1950
+!!!
+Albuterol Inhaler - INH 2 PUFFS Q4-6H PRN
+!!!
+469 Michael Walk Suite 562
+Allergy: None
+###
+---
+Cameron Hernandez Hernandez
+04-07-1951
+!!!
+Levothyroxine 100 MCG - TK 1 T PO QAM AC
+Ibuprofen 200 MG - TK 1 T PO Q6H PRN PAIN
+!!!
+23403 Carey Manors Apt. 168
+Allergy: None
+###
+---
+Harper Garcia Martinez
+03-09-1942
+!!!
+Lisinopril 10 MG - TK 1 T PO QD
+Metformin 500 MG - TK 1 T PO BID WF
+Atorvastatin 40 MG - TK 1 T PO QHS
+!!!
+69260 David Highway
+Allergy: None
+###
