@@ -2,9 +2,6 @@ import asyncio
 import datetime
 from datetime import datetime
 
-#Work on pharmacist print tech's logging records
-#Work on self.name syntax in print logging records method in technician class
-
 #Will display the technician interface
 def techMenu():
     print()
@@ -543,7 +540,6 @@ while (6 < 7):
             print("Patient Menu:")
             print("1. Retrieve personal information")
             print("2. Type a physical prescription")
-
             choice = input()
 
             if not (choice.lower() == "retrieve personal information" or choice == '1' or choice.lower() == "type a medication" or choice == '2'):
@@ -636,7 +632,6 @@ while (6 < 7):
                             print("Shopping Cart:")
                             for (i,item) in enumerate(cart):
                                 print(i + 1, item)
-
                     print()
                 
                 #Reset option
@@ -680,7 +675,6 @@ while (6 < 7):
                         invoice.write("---Items Purchased---\n")
                         invoice.write("This Kinray Order was placed by: " + id + "\n")
                         invoice.write("Kinray Inc. © 2025")
-
                         invoice.close()
 
                         #Exits the interface
@@ -696,8 +690,7 @@ while (6 < 7):
                     break
 
                 else:
-                    print("You did not select a proper option. Please try again.")
-                    
+                    print("You did not select a proper option. Please try again.") 
         
         #Translate sig codes option
         elif (key == '4'):
@@ -748,7 +741,6 @@ while (6 < 7):
     #Pharmacist Login
     else:
         docMenu()
-
         key = input()
 
         #Searches for a patient based off name or date of birth
@@ -789,7 +781,6 @@ while (6 < 7):
                 print('3. "Reset" or "Restart" to empty cart and start over')
                 print('4. "Checkout" to purchase items')
                 print('5. "Quit" to close Kinray Inc.')
-
                 key = input()
 
                 #Adds item to the cart
@@ -854,7 +845,6 @@ while (6 < 7):
                             print("Shopping Cart:")
                             for (i,item) in enumerate(cart):
                                 print(i + 1, item)
-
                     print()
                 
                 #Reset option
@@ -898,7 +888,6 @@ while (6 < 7):
                         invoice.write("---Items Purchased---\n")
                         invoice.write("This Kinray Order was placed by: " + id + "\n")
                         invoice.write("Kinray Inc. © 2025")
-
                         invoice.close()
 
                         #Exits the interface
@@ -914,8 +903,7 @@ while (6 < 7):
                     break
 
                 else:
-                    print("You did not select a proper option. Please try again.")
-                    
+                    print("You did not select a proper option. Please try again.")                    
         
         #Translate sig codes option
         elif (key == '4'):
